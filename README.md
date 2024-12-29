@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao perfil do Maycon Douglas 😄
-Sou um programador Front End, apaixonado por tecnologias e por desafios. Bustravés da programação. atualmente estou aprendendo e criando projetos com HTML, CSS e iniciando o aprendizado de JavaScript.
+Sou um programador Front-End, apaixonado por tecnologias e por desafios. Atualmente estou em busca de aprofundar meus conhecimentos em progamação estudando tecnologias como HTML, CSS, JavaScript, iniciando React, e desenvolvendo projetos pessoais utilizando as referidas linguagens. Sou reconhecido por ser responsável, proativo, adaptável, interessado, comprometido, reseliente e por desempenhar um bom trabalho em equipe. 
 <br>
 <br>
 
@@ -20,9 +20,10 @@ Sou um programador Front End, apaixonado por tecnologias e por desafios. Bustrav
 
 </div>
 <br>
-<h2>Tecnologias que uso no meu dia</h2>
+<h2>Tecnologias que utilizo no meu dia a dia</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Js"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="JavaScript"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="React"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
