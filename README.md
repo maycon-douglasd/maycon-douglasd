@@ -14,15 +14,23 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e pós-graduado em **B
 
 Atualmente direciono meus estudos e projetos para o desenvolvimento de aplicações mobile, com foco em:
 
-📱 Desenvolvimento de aplicações mobile com React Native
-🎨 Criação de interfaces modernas, responsivas e intuitivas
-🔗 Consumo e integração de APIs REST
-⚡ JavaScript aplicado ao desenvolvimento de aplicações
-🔀 Git e GitHub para versionamento e colaboração
-🧠 Lógica de programação e resolução de problemas
-🚀 Evolução contínua através de projetos práticos
 
-Busco oportunidades como Desenvolvedor Mobile, onde possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir para a criação de aplicações que proporcionem boas experiências aos usuários.
+ - 📱 Desenvolvimento de aplicações mobile com React Native
+
+ - 🎨 Criação de interfaces modernas, responsivas e intuitivas
+
+ - 🔗 Consumo e integração de APIs REST
+
+ - ⚡ JavaScript aplicado ao desenvolvimento de aplicações
+
+ - 🔀 Git e GitHub para versionamento e colaboração
+
+ - 🧠 Lógica de programação e resolução de problemas
+
+ - 🚀 Evolução contínua através de projetos práticos
+
+
+Busco oportunidades como **Desenvolvedor Mobile**, onde possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir para a criação de aplicações que proporcionem boas experiências aos usuários.
 
 ---
 
