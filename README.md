@@ -41,6 +41,7 @@ Busco oportunidades como **Desenvolvedor Mobile**, onde possa aplicar meus conhe
 ---
 
 📱 Projetos Mobile
+
 Atualmente desenvolvo projetos com foco em:
 
  - Aplicações mobile com React Native
