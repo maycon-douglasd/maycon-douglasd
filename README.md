@@ -1,46 +1,47 @@
 <h1 align="center">Olá! Eu sou o Maycon Douglas 👋</h1>
 
-<p align="center">
-Desenvolvedor Front-End | Foco em interfaces modernas e experiências web eficientes
-</p>
+<p align="center"> Desenvolvedor Mobile | React Native | JavaScript </p>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou Desenvolvedor Front-End com mais de 3 anos de experiência na área de **Reparação de Telecomunicações**, atuando com suporte técnico, manutenção e infraestrutura de redes.
+Sou Desenvolvedor Mobile com experiência em tecnologia e mais de 3 anos de atuação na área de **Reparação de Telecomunicações**, atuando com suporte técnico, manutenção e infraestrutura de redes.
 
-Essa vivência me desenvolveu habilidades importantes como **resolução de problemas, raciocínio analítico, organização e trabalho em equipe**, que levo diretamente para o desenvolvimento de software.
+Essa experiência desenvolveu habilidades importantes como **resolução de problemas, raciocínio analítico, organização e trabalho em equipe**, que hoje aplico diretamente no desenvolvimento de software.
 
 Sou formado em **Análise e Desenvolvimento de Sistemas** e pós-graduado em **Banco de Dados**.
 
-Atualmente foco no desenvolvimento web com:
+Atualmente direciono meus estudos e projetos para o desenvolvimento de aplicações mobile, com foco em:
 
-- Interfaces responsivas e bem estruturadas
-- Consumo e integração de APIs REST
-- Lógica de programação aplicada a projetos reais
-- Boas práticas com Git e versionamento
-- Evolução contínua com projetos pessoais
+📱 Desenvolvimento de aplicações mobile com React Native
+🎨 Criação de interfaces modernas, responsivas e intuitivas
+🔗 Consumo e integração de APIs REST
+⚡ JavaScript aplicado ao desenvolvimento de aplicações
+🔀 Git e GitHub para versionamento e colaboração
+🧠 Lógica de programação e resolução de problemas
+🚀 Evolução contínua através de projetos práticos
 
-Busco oportunidades como Desenvolvedor Front-End para atuar em projetos desafiadores, evoluir tecnicamente e entregar soluções de alto impacto.
+Busco oportunidades como Desenvolvedor Mobile, onde possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir para a criação de aplicações que proporcionem boas experiências aos usuários.
 
 ---
 
 ## 🚀 Tecnologias
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
+<p> <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </p>
 
 ---
 
+📱 Projetos Mobile
+Atualmente desenvolvo projetos com foco em:
+
+ - Aplicações mobile com React Native
+ - Integração com APIs
+ - Autenticação e gerenciamento de dados
+ - Interfaces responsivas e reutilizáveis
+ - Experiência e usabilidade do usuário
+
+---
 
 ## 🌐 Contato
 
